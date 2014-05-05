@@ -7,7 +7,7 @@ import org.apache.hadoop.conf.Configuration;
 import com.info.comm.HBaseOperation;
 
 public class CreateTables {
-	/*private static String qualifier[] = { "ciftype", "nam", "zchnm",
+  /*private static String qualifier[] = { "ciftype", "nam", "zchnm",
 			"zhovsflg", "oit", "otn", "bchflg", "oed", "rescd", "con",
 			"zlridtype", "zlridcode", "zlridinvdte", "aph", "hph", "pzip",
 			"madl", "cifoff", "nation", "prstate", "zregion", "empcity",
