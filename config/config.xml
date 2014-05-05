@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="GBK"?>
+<config>
+		<Parameter name="timeout">0</Parameter>
+		<Parameter name="serverport">6551</Parameter>
+		<Parameter name="clientport">6554</Parameter>
+		<Parameter name="ip">127.0.0.1</Parameter>
+		<Parameter name="logFileName">simulate.log</Parameter>
+		<Parameter name="logFileDir">./log/</Parameter>
+		<Parameter name="ServerFileDir">../data/server/</Parameter>
+		<Parameter name="ClientFileDir">../data/client/</Parameter>
+</config>
+
